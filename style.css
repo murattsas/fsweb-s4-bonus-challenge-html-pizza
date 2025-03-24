@@ -426,6 +426,16 @@ footer {
     display: flex;
     flex-direction: column;
   }
+  .footer-twitter {
+    color: white;
+    font-size: 15px;
+    font-family: "Barlow";
+    font-weight: 200;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+  }
   .hot-menu, .instagram{
     padding-left: 50px;
   }
